@@ -25,6 +25,9 @@
   </Class>
   <Interface Name="COMP123___Abstract_Planets.IHasMoons">
     <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IhasMoons.cs</FileName>
